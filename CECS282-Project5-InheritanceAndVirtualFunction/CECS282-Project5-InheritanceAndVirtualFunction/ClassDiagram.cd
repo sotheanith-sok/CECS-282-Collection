@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animal">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAiABAAAAAAIAAAAAIAAAAAAAABEAAA=</HashCode>
+      <FileName>Animal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bear">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAgAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>bear.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bird">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bird.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chicken">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgCAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>chicken.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eagle">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>eagle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hyena">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAABQAAA=</HashCode>
+      <FileName>hyena.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lion">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>lion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lizard">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAABAAEA=</HashCode>
+      <FileName>lizard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mammal" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mammal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="repitle">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>repitle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="snake">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAACAAAAABAAAA=</HashCode>
+      <FileName>snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoo" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEEAAAAAAEAAEAAAgAAAAAAAAAAAAAAAACgAA=</HashCode>
+      <FileName>Zoo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
