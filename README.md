@@ -1,11 +1,13 @@
-# CECS 282 - C++ for Java Programmers
-#### Description:
-```
-This is a collection of projects that occur throughout the course.
-```
+<h1 align="center" style="border: none">CECS 282 Collection</h1>
 
-#### Course:
-```
-CECS-282 @CSULB
-```
+## Overview
+A collection of assignments for the CECS 282 class.
 
+## Prerequisites
+ - [C++](http://mingw-w64.org/doku.php)
+
+## Author
+ - [Sotheanith Sok](https://github.com/sotheanith)
+
+## Course
+ - [CECS 282 - Advanced C++](http://catalog.csulb.edu/preview_course_nopop.php?catoid=5&coid=39982)
